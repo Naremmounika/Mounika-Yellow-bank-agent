@@ -108,6 +108,9 @@ If the user interacts in any other language, the bot politely declines and asks 
 ## Screenshots
 
 Screenshots of the bot flow, API configuration, OTP verification, and Dynamic Rich Media cards are included in this repository.
+Step 1: User input (Phone number & DOB)
+Step 2: OTP generation and verification
+Step 3: Loan accounts and loan details display
 
 ---
 
